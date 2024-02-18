@@ -283,7 +283,7 @@ font-size: 23px;
 
 
 
-@media (max-width: 988px) {
+@media (max-width: 870px) {
   .container {
     min-height: 600px;
     height: 100vh;
